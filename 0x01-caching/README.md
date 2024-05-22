@@ -1,18 +1,8 @@
 
-Curriculum
-Short Specializations
-Average: 29.36%
-You just released the advanced tasks of this project. Have fun!
-0x01. Caching
-Back-end
- Weight: 1
- Project will start May 21, 2024 6:00 AM, must end by May 23, 2024 6:00 AM
- Checker was released at May 21, 2024 6:00 PM
- An auto review will be launched at the deadline
-Background Context
+## Background Context
 In this project, you learn different caching algorithms.
 
-Resources
+## Resources
 Read or watch:
 
 Cache replacement policies - FIFO
@@ -23,7 +13,7 @@ Cache replacement policies - LFU
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+# General
 What a caching system is
 What FIFO means
 What LIFO means
