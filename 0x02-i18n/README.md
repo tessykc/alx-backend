@@ -1,18 +1,7 @@
+# 0x02. i18n
+## Back-end
 
-Curriculum
-Short Specializations
-Average: 33.91%
-You just released the advanced tasks of this project. Have fun!
-0x02. i18n
-Back-end
- Weight: 1
- Project will start May 28, 2024 6:00 AM, must end by May 29, 2024 6:00 AM
- Checker was released at May 28, 2024 12:00 PM
- Manual QA review must be done (request it when you are done with the project)
- An auto review will be launched at the deadline
-
-
-Resources
+### Resources
 Read or watch:
 
 Flask-Babel
