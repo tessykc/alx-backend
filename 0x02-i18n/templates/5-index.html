@@ -1,0 +1,9 @@
+{% if g.user %}
+  <p>
+    {% with user=g.user %}
+      {{ _('logged_in_as') % {'username': user['name']} }}
+    {% endwith %}
+  </p>
+{% else %}
+  <p>{{ _('not_logged_in') }}</p>
+{% endif %}
