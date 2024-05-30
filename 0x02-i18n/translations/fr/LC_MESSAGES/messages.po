@@ -1,1 +1,3 @@
-
+# translations/fr/LC_MESSAGES/messages.po
+msgid ""
+msgstr "Nous sommes le %(current_time)s."
